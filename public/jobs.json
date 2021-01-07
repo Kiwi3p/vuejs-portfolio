@@ -1,0 +1,44 @@
+[
+    {
+        "name": "React based portfolio",
+        "text": "Current portfolio website built entirely in react with raw CSS",
+        "img": "../assets/img-10.jpg",
+        "link": "https://jack-transue-portfolio.herokuapp.com/",
+        "id": 1
+    },
+    {
+        "name": "CoHab - Your Home Task Manager",
+        "text": "Full stack application that allows you to assign tasks to others in your home",
+        "img": "../assets/img-4.jpg",
+        "link": "https://cohab-backend.herokuapp.com/",
+        "id": 2
+    },
+    {
+        "name": "LocalE",
+        "text": "Full stack application that parses Google Maps data and finds farmers markets in your area",
+        "img": "../assets/img-3.jpg",
+        "link": "https://local-e-app.herokuapp.com/",
+        "id": 3
+    },
+    {
+        "name": "Google Holiday SVG Animation",
+        "text": "Google holiday 2020 CSS and SVG christams animation",
+        "img": "../assets/img-6.jpg",
+        "link": "https://kiwi3p.github.io/2020holiday_Presents_300x250/",
+        "id": 4
+    },
+    {
+        "name": "Google Holiday SVG Animation Variation 2",
+        "text": "Google holiday 2020 CSS and SVG christams animation",
+        "img": "../assets/img-7.jpg",
+        "link": "https://jack-transue-portfolio.herokuapp.com/",
+        "id": 5
+    },
+    {
+        "name": "Office Space: The Game",
+        "text": "Game coded entirely in Vanilla JavaScript",
+        "img": "../assets/img-5.jpg",
+        "link": "https://kiwi3p.github.io/2020holiday_Unwrappable_970x250/",
+        "id": 6
+    }
+]
