@@ -1,4 +1,4 @@
-# jobby-app-youtube
+# portfolio-app-youtube
 
 ## Project setup
 ```
